@@ -66,7 +66,7 @@
 
 3. **Run Loader**  
 
-   Run `Roblox-skript-V2.exe` as **Administrator**.
+   Run `Roblox-skript-V3.1.exe` as **Administrator**.
 
 
 4. **Launch & Inject**  
